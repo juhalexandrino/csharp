@@ -1,0 +1,14 @@
+C:\Users\julia\Desktop\csharp\aula_02\Calculadora\bin\Debug\net7.0\Calculadora.exe
+C:\Users\julia\Desktop\csharp\aula_02\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+C:\Users\julia\Desktop\csharp\aula_02\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\Users\julia\Desktop\csharp\aula_02\Calculadora\bin\Debug\net7.0\Calculadora.dll
+C:\Users\julia\Desktop\csharp\aula_02\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+C:\Users\julia\Desktop\csharp\aula_02\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Desktop\csharp\aula_02\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\julia\Desktop\csharp\aula_02\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\Users\julia\Desktop\csharp\aula_02\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\csharp\aula_02\Calculadora\obj\Debug\net7.0\Calculadora.dll
+C:\Users\julia\Desktop\csharp\aula_02\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+C:\Users\julia\Desktop\csharp\aula_02\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+C:\Users\julia\Desktop\csharp\aula_02\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\Users\julia\Desktop\csharp\aula_02\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
