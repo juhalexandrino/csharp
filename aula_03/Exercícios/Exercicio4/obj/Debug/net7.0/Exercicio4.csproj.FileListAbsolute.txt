@@ -1,0 +1,14 @@
+C:\Users\julia\Desktop\csharp\aula_03\Exercícios\Exercicio4\obj\Debug\net7.0\Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Desktop\csharp\aula_03\Exercícios\Exercicio4\obj\Debug\net7.0\Exercicio4.AssemblyInfoInputs.cache
+C:\Users\julia\Desktop\csharp\aula_03\Exercícios\Exercicio4\obj\Debug\net7.0\Exercicio4.AssemblyInfo.cs
+C:\Users\julia\Desktop\csharp\aula_03\Exercícios\Exercicio4\obj\Debug\net7.0\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\csharp\aula_03\Exercícios\Exercicio4\bin\Debug\net7.0\Exercicio4.exe
+C:\Users\julia\Desktop\csharp\aula_03\Exercícios\Exercicio4\bin\Debug\net7.0\Exercicio4.deps.json
+C:\Users\julia\Desktop\csharp\aula_03\Exercícios\Exercicio4\bin\Debug\net7.0\Exercicio4.runtimeconfig.json
+C:\Users\julia\Desktop\csharp\aula_03\Exercícios\Exercicio4\bin\Debug\net7.0\Exercicio4.dll
+C:\Users\julia\Desktop\csharp\aula_03\Exercícios\Exercicio4\bin\Debug\net7.0\Exercicio4.pdb
+C:\Users\julia\Desktop\csharp\aula_03\Exercícios\Exercicio4\obj\Debug\net7.0\Exercicio4.dll
+C:\Users\julia\Desktop\csharp\aula_03\Exercícios\Exercicio4\obj\Debug\net7.0\refint\Exercicio4.dll
+C:\Users\julia\Desktop\csharp\aula_03\Exercícios\Exercicio4\obj\Debug\net7.0\Exercicio4.pdb
+C:\Users\julia\Desktop\csharp\aula_03\Exercícios\Exercicio4\obj\Debug\net7.0\Exercicio4.genruntimeconfig.cache
+C:\Users\julia\Desktop\csharp\aula_03\Exercícios\Exercicio4\obj\Debug\net7.0\ref\Exercicio4.dll
