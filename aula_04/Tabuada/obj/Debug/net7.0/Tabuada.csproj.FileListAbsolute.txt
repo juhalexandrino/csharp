@@ -1,0 +1,14 @@
+C:\Users\julia\Desktop\csharp\aula_04\Tabuada\bin\Debug\net7.0\Tabuada.exe
+C:\Users\julia\Desktop\csharp\aula_04\Tabuada\bin\Debug\net7.0\Tabuada.deps.json
+C:\Users\julia\Desktop\csharp\aula_04\Tabuada\bin\Debug\net7.0\Tabuada.runtimeconfig.json
+C:\Users\julia\Desktop\csharp\aula_04\Tabuada\bin\Debug\net7.0\Tabuada.dll
+C:\Users\julia\Desktop\csharp\aula_04\Tabuada\bin\Debug\net7.0\Tabuada.pdb
+C:\Users\julia\Desktop\csharp\aula_04\Tabuada\obj\Debug\net7.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Desktop\csharp\aula_04\Tabuada\obj\Debug\net7.0\Tabuada.AssemblyInfoInputs.cache
+C:\Users\julia\Desktop\csharp\aula_04\Tabuada\obj\Debug\net7.0\Tabuada.AssemblyInfo.cs
+C:\Users\julia\Desktop\csharp\aula_04\Tabuada\obj\Debug\net7.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\csharp\aula_04\Tabuada\obj\Debug\net7.0\Tabuada.dll
+C:\Users\julia\Desktop\csharp\aula_04\Tabuada\obj\Debug\net7.0\refint\Tabuada.dll
+C:\Users\julia\Desktop\csharp\aula_04\Tabuada\obj\Debug\net7.0\Tabuada.pdb
+C:\Users\julia\Desktop\csharp\aula_04\Tabuada\obj\Debug\net7.0\Tabuada.genruntimeconfig.cache
+C:\Users\julia\Desktop\csharp\aula_04\Tabuada\obj\Debug\net7.0\ref\Tabuada.dll

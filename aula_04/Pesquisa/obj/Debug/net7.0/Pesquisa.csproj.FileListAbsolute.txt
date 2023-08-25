@@ -1,0 +1,14 @@
+C:\Users\julia\Desktop\csharp\aula_04\Pesquisa\bin\Debug\net7.0\Pesquisa.exe
+C:\Users\julia\Desktop\csharp\aula_04\Pesquisa\bin\Debug\net7.0\Pesquisa.deps.json
+C:\Users\julia\Desktop\csharp\aula_04\Pesquisa\bin\Debug\net7.0\Pesquisa.runtimeconfig.json
+C:\Users\julia\Desktop\csharp\aula_04\Pesquisa\bin\Debug\net7.0\Pesquisa.dll
+C:\Users\julia\Desktop\csharp\aula_04\Pesquisa\bin\Debug\net7.0\Pesquisa.pdb
+C:\Users\julia\Desktop\csharp\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Desktop\csharp\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.AssemblyInfoInputs.cache
+C:\Users\julia\Desktop\csharp\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.AssemblyInfo.cs
+C:\Users\julia\Desktop\csharp\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\csharp\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.dll
+C:\Users\julia\Desktop\csharp\aula_04\Pesquisa\obj\Debug\net7.0\refint\Pesquisa.dll
+C:\Users\julia\Desktop\csharp\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.pdb
+C:\Users\julia\Desktop\csharp\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.genruntimeconfig.cache
+C:\Users\julia\Desktop\csharp\aula_04\Pesquisa\obj\Debug\net7.0\ref\Pesquisa.dll
