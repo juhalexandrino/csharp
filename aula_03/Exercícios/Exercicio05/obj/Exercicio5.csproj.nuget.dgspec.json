@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julia\\Desktop\\csharp\\aula_03\\Exercícios\\Exercicio3\\Exercicio5.csproj": {}
+    "C:\\Users\\julia\\Desktop\\csharp\\aula_03\\Exercícios\\Exercicio05\\Exercicio5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julia\\Desktop\\csharp\\aula_03\\Exercícios\\Exercicio3\\Exercicio5.csproj": {
+    "C:\\Users\\julia\\Desktop\\csharp\\aula_03\\Exercícios\\Exercicio05\\Exercicio5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julia\\Desktop\\csharp\\aula_03\\Exercícios\\Exercicio3\\Exercicio5.csproj",
+        "projectUniqueName": "C:\\Users\\julia\\Desktop\\csharp\\aula_03\\Exercícios\\Exercicio05\\Exercicio5.csproj",
         "projectName": "Exercicio5",
-        "projectPath": "C:\\Users\\julia\\Desktop\\csharp\\aula_03\\Exercícios\\Exercicio3\\Exercicio5.csproj",
+        "projectPath": "C:\\Users\\julia\\Desktop\\csharp\\aula_03\\Exercícios\\Exercicio05\\Exercicio5.csproj",
         "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julia\\Desktop\\csharp\\aula_03\\Exercícios\\Exercicio3\\obj\\",
+        "outputPath": "C:\\Users\\julia\\Desktop\\csharp\\aula_03\\Exercícios\\Exercicio05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",

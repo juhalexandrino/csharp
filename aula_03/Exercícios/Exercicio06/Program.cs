@@ -9,24 +9,25 @@
             int cargo;
             float reajuste, salario, novoSalario = 0;
 
+            Console.WriteLine("Confira o novo salário de acordo com o cargo:\n");
+            
+            Console.WriteLine("1 - Gerente       | 10% de reajuste");
+            Console.WriteLine("2 - Vendedor      | 7% de reajuste");
+            Console.WriteLine("3 - Supervisor    | 9% de reajuste");
+            Console.WriteLine("4 - Motorista     | 6% de reajuste");
+            Console.WriteLine("5 - Estoquista    | 5% de reajuste");
+            Console.WriteLine("6 - Técnico de TI | 8% de reajuste");
 
-            Console.Write("Digite seu nome:");
+            Console.Write("\nDigite seu nome: ");
             nome = Console.ReadLine();
 
-            Console.WriteLine("1 - Gerente");
-            Console.WriteLine("2 - Vendedor");
-            Console.WriteLine("3 - Supervisor");
-            Console.WriteLine("4 - Motorista");
-            Console.WriteLine("5 - Estoquista");
-            Console.WriteLine("6 - Técnico de TI");
-
-            Console.Write("Digite seu cargo:");
+            Console.Write("\nDigite seu cargo: ");
             cargo = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Digite seu salário:");
+            Console.Write("\nDigite seu salário: ");
             salario = Convert.ToSingle(Console.ReadLine());
 
-            Console.WriteLine($"Nome do colaborador: {nome}");
+            Console.WriteLine($"\nNome do(a) colaborador(a): {nome}");
 
             switch (cargo)
             {
@@ -71,7 +72,7 @@
                     break;
             }
 
-            Console.WriteLine($"Salário: R${novoSalario:F2}");
+            Console.WriteLine($"Novo salário: R${novoSalario:F2}");
         }
     }
 }
