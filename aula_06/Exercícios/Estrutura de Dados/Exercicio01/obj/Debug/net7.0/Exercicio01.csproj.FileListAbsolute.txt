@@ -1,0 +1,14 @@
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Exercícios\Estrutura de Dados\Exercicio01\bin\Debug\net7.0\Exercicio01.exe
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Exercícios\Estrutura de Dados\Exercicio01\bin\Debug\net7.0\Exercicio01.deps.json
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Exercícios\Estrutura de Dados\Exercicio01\bin\Debug\net7.0\Exercicio01.runtimeconfig.json
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Exercícios\Estrutura de Dados\Exercicio01\bin\Debug\net7.0\Exercicio01.dll
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Exercícios\Estrutura de Dados\Exercicio01\bin\Debug\net7.0\Exercicio01.pdb
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Exercícios\Estrutura de Dados\Exercicio01\obj\Debug\net7.0\Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Exercícios\Estrutura de Dados\Exercicio01\obj\Debug\net7.0\Exercicio01.AssemblyInfoInputs.cache
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Exercícios\Estrutura de Dados\Exercicio01\obj\Debug\net7.0\Exercicio01.AssemblyInfo.cs
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Exercícios\Estrutura de Dados\Exercicio01\obj\Debug\net7.0\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Exercícios\Estrutura de Dados\Exercicio01\obj\Debug\net7.0\Exercicio01.dll
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Exercícios\Estrutura de Dados\Exercicio01\obj\Debug\net7.0\refint\Exercicio01.dll
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Exercícios\Estrutura de Dados\Exercicio01\obj\Debug\net7.0\Exercicio01.pdb
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Exercícios\Estrutura de Dados\Exercicio01\obj\Debug\net7.0\Exercicio01.genruntimeconfig.cache
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Exercícios\Estrutura de Dados\Exercicio01\obj\Debug\net7.0\ref\Exercicio01.dll

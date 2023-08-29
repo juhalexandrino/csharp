@@ -1,0 +1,14 @@
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Fila\bin\Debug\net7.0\Fila.exe
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Fila\bin\Debug\net7.0\Fila.deps.json
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Fila\bin\Debug\net7.0\Fila.runtimeconfig.json
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Fila\bin\Debug\net7.0\Fila.dll
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Fila\bin\Debug\net7.0\Fila.pdb
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Fila\obj\Debug\net7.0\Fila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Fila\obj\Debug\net7.0\Fila.AssemblyInfoInputs.cache
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Fila\obj\Debug\net7.0\Fila.AssemblyInfo.cs
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Fila\obj\Debug\net7.0\Fila.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Fila\obj\Debug\net7.0\Fila.dll
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Fila\obj\Debug\net7.0\refint\Fila.dll
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Fila\obj\Debug\net7.0\Fila.pdb
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Fila\obj\Debug\net7.0\Fila.genruntimeconfig.cache
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\Fila\obj\Debug\net7.0\ref\Fila.dll

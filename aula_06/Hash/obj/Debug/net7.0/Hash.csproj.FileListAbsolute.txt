@@ -1,0 +1,14 @@
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\HashSet\obj\Debug\net7.0\Hash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\HashSet\obj\Debug\net7.0\Hash.AssemblyInfoInputs.cache
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\HashSet\obj\Debug\net7.0\Hash.AssemblyInfo.cs
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\HashSet\obj\Debug\net7.0\Hash.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\HashSet\bin\Debug\net7.0\Hash.exe
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\HashSet\bin\Debug\net7.0\Hash.deps.json
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\HashSet\bin\Debug\net7.0\Hash.runtimeconfig.json
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\HashSet\bin\Debug\net7.0\Hash.dll
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\HashSet\bin\Debug\net7.0\Hash.pdb
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\HashSet\obj\Debug\net7.0\Hash.dll
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\HashSet\obj\Debug\net7.0\refint\Hash.dll
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\HashSet\obj\Debug\net7.0\Hash.pdb
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\HashSet\obj\Debug\net7.0\Hash.genruntimeconfig.cache
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Csharp & Git\csharp\aula_06\HashSet\obj\Debug\net7.0\ref\Hash.dll
