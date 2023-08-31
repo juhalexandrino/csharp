@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julia\\Desktop\\Exercicio01\\Exercicio01.csproj",
+      "projectUniqueName": "C:\\Users\\julia\\Documents\\Tecnologia\\Cursos\\Generation .NET 03\\Csharp & Git\\csharp\\aula_06\\Exercícios\\Estrutura de Dados\\Exercicio01\\Exercicio01.csproj",
       "projectName": "Exercicio01",
-      "projectPath": "C:\\Users\\julia\\Desktop\\Exercicio01\\Exercicio01.csproj",
+      "projectPath": "C:\\Users\\julia\\Documents\\Tecnologia\\Cursos\\Generation .NET 03\\Csharp & Git\\csharp\\aula_06\\Exercícios\\Estrutura de Dados\\Exercicio01\\Exercicio01.csproj",
       "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julia\\Desktop\\Exercicio01\\obj\\",
+      "outputPath": "C:\\Users\\julia\\Documents\\Tecnologia\\Cursos\\Generation .NET 03\\Csharp & Git\\csharp\\aula_06\\Exercícios\\Estrutura de Dados\\Exercicio01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
