@@ -1,4 +1,5 @@
-﻿using Exercicio01.Namespace01;
+﻿using Exercicio01.Model;
+using Exercicio01.Namespace01;
 
 namespace Exercicio01
 {
@@ -6,12 +7,21 @@ namespace Exercicio01
     {
         static void Main(string[] args)
         {
-            Cliente cliente = new Cliente(1, "Clara", "emailclara@email.com", "11 1234-5678", "Rua de Pedra, 01");
-            Cliente cliente2 = new Cliente(2, "Fabiana", "emailfabiana@email.com", "22 8765-4321", "Rua de Barro, 02");
+            Console.WriteLine("+++++++++++ Pessoa Jurídica +++++++++++");
+            PessoaJuridica juridica = new PessoaJuridica(01, "BrincandoLivre", "brincandolivre@email.com", "11 1234-5678", "Rua de Pedra, 011", "Fabiana Silva");
+            PessoaJuridica juridica2 = new PessoaJuridica(02, "Studio Unhas&Make", "studiounhasemake@email.com", "22 9876-54321", "Rua de Tijolo, 220", "Clara Oliveira");
+
+            juridica.Visualizar();
+            Console.WriteLine();
+            juridica2.Visualizar();
+
+            Console.WriteLine("\n\n+++++++++++ Pessoa Fisíca +++++++++++");
+            PessoaFisica fisica = new PessoaFisica(01, "Leonardo", "leonardo@email.com", "33 2468-9513", "Rua de Cimento, 123", 6);
+            PessoaFisica fisica2 = new PessoaFisica(02, "Eduardo", "eduardo@email.com", "44 9753-4682", "Rua de Concreto, 321", 8);
             
-            cliente.Visualizar();
-            Console.WriteLine("");
-            cliente2.Visualizar();
+            fisica.Visualizar();
+            Console.WriteLine();
+            fisica2.Visualizar();
         }
     }
 }

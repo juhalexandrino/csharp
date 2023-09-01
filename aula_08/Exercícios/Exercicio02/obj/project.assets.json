@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julia\\Documents\\Tecnologia\\Cursos\\Generation .NET 03\\Bloco 01\\Csharp & Git\\csharp\\aula_08\\Exercicio02\\Exercicio03.csproj",
+      "projectUniqueName": "C:\\Users\\julia\\Documents\\Tecnologia\\Cursos\\Generation .NET 03\\Bloco 01\\Csharp & Git\\csharp\\aula_08\\Exercícios\\Exercicio02\\Exercicio03.csproj",
       "projectName": "Exercicio03",
-      "projectPath": "C:\\Users\\julia\\Documents\\Tecnologia\\Cursos\\Generation .NET 03\\Bloco 01\\Csharp & Git\\csharp\\aula_08\\Exercicio02\\Exercicio03.csproj",
+      "projectPath": "C:\\Users\\julia\\Documents\\Tecnologia\\Cursos\\Generation .NET 03\\Bloco 01\\Csharp & Git\\csharp\\aula_08\\Exercícios\\Exercicio02\\Exercicio03.csproj",
       "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julia\\Documents\\Tecnologia\\Cursos\\Generation .NET 03\\Bloco 01\\Csharp & Git\\csharp\\aula_08\\Exercicio02\\obj\\",
+      "outputPath": "C:\\Users\\julia\\Documents\\Tecnologia\\Cursos\\Generation .NET 03\\Bloco 01\\Csharp & Git\\csharp\\aula_08\\Exercícios\\Exercicio02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
