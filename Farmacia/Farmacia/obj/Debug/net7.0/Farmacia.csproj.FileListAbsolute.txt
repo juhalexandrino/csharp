@@ -1,0 +1,14 @@
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\Farmacia\Farmacia\bin\Debug\net7.0\Farmacia.exe
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\Farmacia\Farmacia\bin\Debug\net7.0\Farmacia.deps.json
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\Farmacia\Farmacia\bin\Debug\net7.0\Farmacia.runtimeconfig.json
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\Farmacia\Farmacia\bin\Debug\net7.0\Farmacia.dll
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\Farmacia\Farmacia\bin\Debug\net7.0\Farmacia.pdb
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\Farmacia\Farmacia\obj\Debug\net7.0\Farmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\Farmacia\Farmacia\obj\Debug\net7.0\Farmacia.AssemblyInfoInputs.cache
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\Farmacia\Farmacia\obj\Debug\net7.0\Farmacia.AssemblyInfo.cs
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\Farmacia\Farmacia\obj\Debug\net7.0\Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\Farmacia\Farmacia\obj\Debug\net7.0\Farmacia.dll
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\Farmacia\Farmacia\obj\Debug\net7.0\refint\Farmacia.dll
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\Farmacia\Farmacia\obj\Debug\net7.0\Farmacia.pdb
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\Farmacia\Farmacia\obj\Debug\net7.0\Farmacia.genruntimeconfig.cache
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\Farmacia\Farmacia\obj\Debug\net7.0\ref\Farmacia.dll

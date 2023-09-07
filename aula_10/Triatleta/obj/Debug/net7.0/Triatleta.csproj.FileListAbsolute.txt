@@ -1,0 +1,14 @@
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\aula_10\Triatleta\bin\Debug\net7.0\Triatleta.exe
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\aula_10\Triatleta\bin\Debug\net7.0\Triatleta.deps.json
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\aula_10\Triatleta\bin\Debug\net7.0\Triatleta.runtimeconfig.json
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\aula_10\Triatleta\bin\Debug\net7.0\Triatleta.dll
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\aula_10\Triatleta\bin\Debug\net7.0\Triatleta.pdb
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\aula_10\Triatleta\obj\Debug\net7.0\Triatleta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\aula_10\Triatleta\obj\Debug\net7.0\Triatleta.AssemblyInfoInputs.cache
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\aula_10\Triatleta\obj\Debug\net7.0\Triatleta.AssemblyInfo.cs
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\aula_10\Triatleta\obj\Debug\net7.0\Triatleta.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\aula_10\Triatleta\obj\Debug\net7.0\Triatleta.dll
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\aula_10\Triatleta\obj\Debug\net7.0\refint\Triatleta.dll
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\aula_10\Triatleta\obj\Debug\net7.0\Triatleta.pdb
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\aula_10\Triatleta\obj\Debug\net7.0\Triatleta.genruntimeconfig.cache
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Csharp & Git\csharp\aula_10\Triatleta\obj\Debug\net7.0\ref\Triatleta.dll
